@@ -2,7 +2,7 @@
 
 A Forge mod for Minecraft that adds the seven Dragon Balls, a Dragon Radar, and a cinematic Shenron wish encounter.
 
-![Shenron Dragon Balls logo](portfolio_gfx/shenron-mask-logo-concrete-preview.png)
+![Shenron Dragon Balls logo](portfolio_gfx/shenron-readme-logo.png)
 
 ## ✨ What It Includes
 
