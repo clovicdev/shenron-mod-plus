@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "shenron:item/dragon_radar_idle"
+  },
+  "overrides": [
+    { "predicate": { "shenron:radar_direction": 0.1 }, "model": "shenron:item/dragon_radar_0" },
+    { "predicate": { "shenron:radar_direction": 0.2 }, "model": "shenron:item/dragon_radar_1" },
+    { "predicate": { "shenron:radar_direction": 0.3 }, "model": "shenron:item/dragon_radar_2" },
+    { "predicate": { "shenron:radar_direction": 0.4 }, "model": "shenron:item/dragon_radar_3" },
+    { "predicate": { "shenron:radar_direction": 0.5 }, "model": "shenron:item/dragon_radar_4" },
+    { "predicate": { "shenron:radar_direction": 0.6 }, "model": "shenron:item/dragon_radar_5" },
+    { "predicate": { "shenron:radar_direction": 0.7 }, "model": "shenron:item/dragon_radar_6" },
+    { "predicate": { "shenron:radar_direction": 0.8 }, "model": "shenron:item/dragon_radar_7" },
+    { "predicate": { "shenron:radar_direction": 0.9 }, "model": "shenron:item/dragon_radar_center" }
+  ]
+}

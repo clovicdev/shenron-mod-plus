@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RER",
+    "GCG",
+    "RER"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "E": { "item": "minecraft:ender_eye" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "C": { "item": "minecraft:compass" }
+  },
+  "result": {
+    "item": "shenron:dragon_radar",
+    "count": 1
+  }
+}
