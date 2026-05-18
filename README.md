@@ -1,4 +1,4 @@
-# 🐉 Shenron Dragon Balls
+# 🐉 Shenron Mod+
 
 A Forge mod for Minecraft that adds the seven Dragon Balls, a Dragon Radar, and a cinematic Shenron wish encounter.
 
